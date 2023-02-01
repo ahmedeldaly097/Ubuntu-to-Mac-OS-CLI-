@@ -11,6 +11,3 @@
     
     - ### now you can excute the file and everything will be like the screenshot that I attached.
             ./convert-file.sh
-
----
-![my Ubuntu Screeshot](https://user-images.githubusercontent.com/111642557/216112040-88197053-44cf-4ae6-92f9-43aca9096d56.png)
